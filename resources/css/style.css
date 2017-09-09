@@ -10,23 +10,35 @@ h3{
 h1{
   font-size: 70px;
 }
-nav{
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+/*adjust font-size of only links in the nav elements*/
+nav,
+.page-footer a{
   font-size: 18px;
 }
 p{
   font-size: 14px;
 }
+/*adjust font size of only text in the bottom nav bar*/
+.page-footer p{
+  font-size: 11px;
+}
+/*remove bullet points from list and alogn text*/
 nav ul{
   list-style-type: none;
   padding-left: 0px;
 }
-a:link{
-  color: white;
-}
-a:visited{
-  color: white;
-}
-.white-font{
+/*secondary font color*/
+a:link,
+a:visited,
+.page-header,
+.page-divider,
+.page-footer{
   color: white;
 }
 .left-align{
@@ -34,20 +46,10 @@ a:visited{
 }
 .page-header{
   background-image: url(../images/the-flatiron-building.png);
-  color: white;
 }
 .page-divider{
   background-image: url(../images/the-flatiron-building.png);
-  font-size: 23px;
-  color: white;
 }
 .page-footer{
   background-color: dimgray;
-  color: white;
-}
-.page-footer p{
-  font-size: 11px;
-}
-.page-footer a{
-  font-size: 18px;
 }
