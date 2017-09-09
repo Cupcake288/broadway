@@ -16,6 +16,16 @@ nav{
 p{
   font-size: 14px;
 }
+nav ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: white;
+}
 .white-font{
   color: white;
 }
