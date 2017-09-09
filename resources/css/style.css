@@ -32,9 +32,6 @@ a:visited{
 .left-align{
   text-align: left;
 }
-.inline{
-  display: inline;
-}
 .page-header{
   background-image: url(../images/the-flatiron-building.png);
   color: white;
