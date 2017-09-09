@@ -37,14 +37,16 @@ a:visited{
 }
 .page-header{
   background-image: url(../images/the-flatiron-building.png);
+  color: white;
 }
 .page-divider{
   background-image: url(../images/the-flatiron-building.png);
   font-size: 23px;
-  font-weight: bold;
+  color: white;
 }
 .page-footer{
   background-color: dimgray;
+  color: white;
 }
 .page-footer p{
   font-size: 11px;
