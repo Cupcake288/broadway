@@ -48,13 +48,15 @@ a:visited,
   background-color: dimgray;
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
-  background-position: center;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 .page-divider{
   background-color: dimgray;
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
-  background-position: center;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 .page-footer{
   background-color: dimgray;
