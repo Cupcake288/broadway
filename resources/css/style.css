@@ -45,10 +45,16 @@ a:visited,
   text-align: left;
 }
 .page-header{
+  background-color: dimgray;
   background-image: url(../images/the-flatiron-building.png);
+  background-size: cover;
+  background-position: center;
 }
 .page-divider{
+  background-color: dimgray;
   background-image: url(../images/the-flatiron-building.png);
+  background-size: cover;
+  background-position: center;
 }
 .page-footer{
   background-color: dimgray;
